@@ -6,7 +6,7 @@
 <!---
 - I love designing applications using AI and ML. I have worked on End-toEnd ML projects that uses technologies like Time series forecasting, Regression, Classification, Computer Vision and Natural Language Processing, I have worked on the backend developement of an eCommerce website spareware.com check out the projects section.
 - 🌱 Skills: 
-`
+
 
       - Software Development, DBMS, OS, Data Structures and Algorithms, Deep Learning, Machine learning, and Data Science
       - AWS : AWS sagemaker, AWS lambda, S3 bucket, and API Gateway
@@ -15,7 +15,7 @@
       - Project Management: ClickUp and Jira
       - Data Analysis : PowerBI, Tableau
       
----> `
+---> 
 <!---
 Vivek1258/Vivek1258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
