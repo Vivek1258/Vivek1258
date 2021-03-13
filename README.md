@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Mankar 
 - 👀 I have been learning and working in the field of AI/Ml for the last 3 years.
 - ✨  I have graduated with a nano degree in Machine Learning Engineering under the AWS ML Scholarship after getting selected in the top 300 students across the world in the AWS scholarship test.
-- 🌱 I love designing applications using AI and ML. Currently, I am collaborating with an international open-source organization called aviation.ml. I have also volunteered to a Canada based startup as an ML engineer. so I have a good experience of working remotely with a team.
+- 🌱 I love designing applications using AI and ML. Currently, I am collaborating with an international open-source organization called aviation.ml. I have also volunteered to a Canada based startup as an ML engineer. 
 
 <!---
 - I love designing applications using AI and ML. I have worked on End-toEnd ML projects that uses technologies like Time series forecasting, Regression, Classification, Computer Vision and Natural Language Processing, I have worked on the backend developement of an eCommerce website spareware.com check out the projects section.
