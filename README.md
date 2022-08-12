@@ -9,8 +9,7 @@
 - I am looking forward to develope my skills in Cloud technology and contribute to the intersting opoen source projects. 
 
 - Languages: Python, C, C++, SQL 
-      
----> 
+
 <!---
 Vivek1258/Vivek1258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
