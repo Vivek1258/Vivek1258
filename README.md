@@ -1,14 +1,9 @@
-- 👋 Hi, I’m Vivek Mankar 
+Hi, I am an AI Engineer who loves staying up to date with the latest AI trends. 
 
-- I love developing software applications using technologies like AI and Cloud
+My current focus is on developing MLDL and Gen AI model inference systems with a strong emphasis on efficient inferencing using C++
+and developing high-availability cloud systems and AI tools to enhance productivity.
 
-- I graduated with a nano degree in Machine Learning Engineering and completed various noncredit extracurricular specialization courses in machine learning. This helped me gain a solid understanding of the basics and mathematics behind ML/DL algorithms.
-
-- I have received a scholarship in Machine learning from Amazon Web Services (AWS). And currently, I am in the Kaggle 2X expert track( Dataset and Code | Top 1% in Dataset Experts Track ).
-
-- I am looking forward to developing my skills in Cloud technology and contributing to interesting open-source projects.
-
-- Languages: Python, C, C++, SQL 
+In addition to my practical experience, I've participated in research related to AI and published a few papers on Neural Network Compression Techniques and Image Captioning Architecture for Resource-Constrained Systems.
 
 <!---
 Vivek1258/Vivek1258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
