@@ -1,9 +1,6 @@
-Hi, I am an AI Engineer who loves staying up to date with the latest AI trends. 
+AI Software Engineer with around four years of experience focused on architecting high-performance AI inference solutions and scalable cloud systems. My approach is grounded in studies of academic research and open-source contributions, where I developed a deep appreciation for efficient and collaborative engineering. 
 
-My current focus is on developing MLDL and Gen AI model inference systems with a strong emphasis on efficient inferencing using C++
-and developing high-availability cloud systems and AI tools to enhance productivity.
-
-In addition to my practical experience, I've participated in research related to AI and published a few papers on Neural Network Compression Techniques and Image Captioning Architecture for Resource-Constrained Systems.
+Today, I apply that foundation to my work in hardware acceleration, device-aware deployment, and MLOps automation, building AI systems that deliver tangible real-world impact.
 
 <!---
 Vivek1258/Vivek1258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
