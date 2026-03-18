@@ -1,8 +1,8 @@
 
 
-AI Software Engineer with around 4 years of experience building high-performance AI inference systems and scalable cloud software. My work sits at the intersection of deep learning and systems engineering, with a strong focus on hardware-aware deployment and real-world performance optimization.
+AI Software Engineer with experience in building high-performance AI inference systems and scalable cloud software. My work sits at the intersection of deep learning and systems engineering, with a strong focus on hardware-aware deployment and real-world performance optimization.
 
-My current work focuses on the PyTorch ecosystem and AI compiler systems ( including torch Inductor, AOTAutograd, custom torch.compile backends, and AI runtimes  ) along with hardware-aware inference, LLM serving, and MLOps automation.
+My current work focuses on the PyTorch ecosystem, along with hardware-aware inference, LLM serving, and MLOps automation.
 
 I enjoy research and mathematics, and have published a few papers so far. I’m excited to continue growing in this space.
 
